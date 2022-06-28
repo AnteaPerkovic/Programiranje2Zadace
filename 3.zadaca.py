@@ -4,7 +4,7 @@
 #String mora sadržavati bar jedan broj između 0 i 5 i razmak.
 import re
 
-regex = "^k.*[0-5].*\s.*v$"
+regex = "^a.*[0-5].*\s.*p$"
 regex2 = "\s"
 
 while 1:
